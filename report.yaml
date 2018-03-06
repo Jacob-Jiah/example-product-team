@@ -14,19 +14,19 @@ team:
   roster:
   - name: Xiao Zuo
     email: xz429@cornell.edu
-    picture: grouppic/zuoxiao.jpeg
+    picture: zuoxiao.jpeg
     program: MBA
   - name: James Mariani
     email: jm2646@cornell.edu
-    picture: grouppic/jamesmariani.jpeg
+    picture: jamesmariani.jpeg
     program: LLM
   - name: Yi Tang
     email: tangy206@newschool.edu
-    picture: grouppic/yitang.jpg
+    picture: yitang.jpg
     program: PARSON
   - name: Haochen Jia
     email: hj427@cornell.edu
-    picture: grouppic/haochenjia.jpeg
+    picture: haochenjia.jpeg
     program: ORIE    
     
 
