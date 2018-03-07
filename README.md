@@ -11,40 +11,38 @@ To create your team's Buildboard complete the below tasks
 --Copy the Code Below--
 ```yaml
 company:
-  name: YOUR TEAM/COMPANY NAME HERE
-  logo: COMPANY LOGO (Copy the and paste the file name here of your upload here. e.g. Cornell_NYC_Tech_logo.png)
-how_might_we: COPY AND PASTE YOUR HMW HERE
+  name: Lobby Robot
+  logo: lobbyrobotlogo.jpg
+  
+tags:
+  - Computer Vision
+  - Media
 
 product_narrative: |
-  INPUT YOUR PRODUCT NARRATIVE HERE
-team:
-  picture: TEAM PHOTO FILE (Copy the and paste the file name here of your upload here. e.g. imagename.jpg)
 
+  A kiosk that placed at the building lobby, which utilizes facial recognition technology to sign up guest and give access.
+team:
+  picture: team.jpeg
   roster:
-    - name: TEAM MEMBER 1 FULL NAME
-      email: TEAM MEMBER 1 EMAIL
-      picture: TEAM MEMBER 1 PHOTO FILE (Copy the and paste the file name here of your upload here. e.g. imagename.jpg)
-    - name: TEAM MEMBER 2 FULL NAME
-      email: TEAM MEMBER 2 EMAIL
-      picture: TEAM MEMBER 2 PHOTO FILE (Copy the and paste the file name here of your upload here. e.g. imagename.jpg)
-    - name: TEAM MEMBER 3 FULL NAME
-      email: TEAM MEMBER 3 EMAIL
-      picture: TEAM MEMBER 3 PHOTO FILE (Copy the and paste the file name here of your upload here. e.g. imagename.jpg)
-    - name: TEAM MEMBER 4 FULL NAME
-      email: TEAM MEMBER 4 EMAIL
-      picture: TEAM MEMBER 4 PHOTO FILE (Copy the and paste the file name here of your upload here. e.g. imagename.jpg)
-    - name: TEAM MEMBER 5 FULL NAME
-      email: TEAM MEMBER 5 EMAIL
-      picture: TEAM MEMBER 5 PHOTO FILE (Copy the and paste the file name here of your upload here. e.g. imagename.jpg)
+  - name: Xiao Zuo
+    email: xz429@cornell.edu
+    picture: zuoxiao.jpeg
+    program: MBA
+  - name: James Mariani
+    email: jm2646@cornell.edu
+    picture: jamesmariani.jpeg
+    program: LLM
+  - name: Yi Tang
+    email: tangy206@newschool.edu
+    picture: yitang.jpg
+    program: PARSON
+  - name: Haochen Jia
+    email: hj427@cornell.edu
+    picture: haochenjia.jpeg
+    program: ORIE    
+    
 
 assets:
 - title: Sprint 1
-  url: URL OF YOUR SPRINT 1 WORK/PRESENTATION
-- title: Sprint 2
-  url: URL OF YOUR SPRINT 2 WORK/PRESENTATION
-- title: Sprint 3
-  url: URL OF YOUR SPRINT 3 WORK/PRESENTATION
-```
- 
- 
- --Copy the Code Above--
+  url: https://drive.google.com/file/d/1en7y_dm_rcGOqMKZA4ctpRAm9mucDcKH/view?usp=sharing
+
